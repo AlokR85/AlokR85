@@ -45,6 +45,16 @@ My B.Sc. thesis was on finding brain aneurysms in CT and MRI scans with deep lea
 | [Donate the Blood](https://github.com/AlokR85/Donate-the-Blood) | A blood donation website where people sign up as donors and others search for them by district and blood group. **[Live preview](https://alokr85.github.io/Donate-the-Blood/)** | HTML, CSS, JavaScript, PHP, MySQL |
 | [Gym Management System](https://github.com/AlokR85/Gym-Management-System) | A gym website with services, about and contact pages, plus login (admin, trainer, user) and member registration pages. **[Live demo](https://alokr85.github.io/Gym-Management-System/)** | HTML, CSS, Bootstrap |
 
+## Certificates and Activities
+
+- **General Secretary, PCIU Computer Club (PCC).** Active member since the club started, taking part in workshops, seminars, competitive programming, sports and cultural events.
+- **Workshop on Networking Technology**, Skill Zone (August 2025)
+
+| PCIU Computer Club | Skill Zone |
+|---|---|
+| ![Certificate of appreciation from PCIU Computer Club](certificates/pcc-appreciation.jpg) | ![Networking Technology workshop certificate from Skill Zone](certificates/skill-zone-networking-technology.jpg) |
+| Certificate of Appreciation | Networking Technology Workshop |
+
 ## Currently
 
 - Writing a research paper from my thesis
