@@ -42,7 +42,7 @@ My B.Sc. thesis was on finding brain aneurysms in CT and MRI scans with deep lea
 | Project | About | Built with |
 |---|---|---|
 | [Brain Aneurysm Detection](https://github.com/AlokR85/-Brain-Aneurysm-thesis) | My B.Sc. thesis. Finds and classifies brain aneurysms on CTA, MRA and MRI slices using YOLO26 detectors and CNN classifiers joined in a hybrid model, with Grad-CAM to show where the model looks. | Python, PyTorch, YOLO, OpenCV |
-| Donate the Blood | A blood donation website that connects donors with people who need blood. | HTML, CSS, JavaScript, PHP, MySQL |
+| [Donate the Blood](https://github.com/AlokR85/Donate-the-Blood) | A blood donation website where people sign up as donors and others search for them by district and blood group. | HTML, CSS, JavaScript, PHP, MySQL |
 | Gym Management System | A web app for managing a gym's members and daily work. | HTML, CSS, JavaScript, PHP, MySQL |
 
 ## Currently
